@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;JavaScript+Learner;Future+MERN+Stack+Developer;UI%2FUX+Enthusiast;Building+Modern+Websites;Always+Learning+Something+New+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 
 
 - JavaScript (ES6)
