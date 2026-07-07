@@ -6,9 +6,6 @@
 
 # 👋 Assalamu Alaikum, I'm Hussain Khatri
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;JavaScript+Learner;Future+MERN+Stack+Developer;UI%2FUX+Enthusiast;Building+Modern+Websites;Always+Learning+Something+New+🚀"/>
-
-
 - JavaScript (ES6)
 - Git & GitHub
 
